@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="title_home">Linear</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="login_screen_desc">Enter your credentials below to sign into your account.</string>
+    <string name="login_screen_title">Log into your account</string>
+</resources>

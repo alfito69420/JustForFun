@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "481863894792",
+    "project_id": "justforfun-4009b",
+    "storage_bucket": "justforfun-4009b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481863894792:android:61905b5a8f248c6068cebd",
+        "android_client_info": {
+          "package_name": "com.example.layouts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481863894792-ejffm9jhn0ir3r97pngh7hnhgbqr0lfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf79YmVJq2uYm3mSj5rOz6Lz6KvgiZXLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481863894792-ejffm9jhn0ir3r97pngh7hnhgbqr0lfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481863894792:android:fe69bb07c3dd1d3968cebd",
+        "android_client_info": {
+          "package_name": "com.example.layouts.ui.register"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481863894792-ejffm9jhn0ir3r97pngh7hnhgbqr0lfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf79YmVJq2uYm3mSj5rOz6Lz6KvgiZXLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481863894792-ejffm9jhn0ir3r97pngh7hnhgbqr0lfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
